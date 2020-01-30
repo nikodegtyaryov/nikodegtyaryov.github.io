@@ -1,0 +1,29 @@
+baseUrl = "https://nikodegtyaryov.github.io/blog/"
+languageCode = "en"
+title = "Niko Degtyaryov"
+theme = "pickles"
+copyright = "&copy; Niko Degtyaryov 2020"
+
+[permalinks]
+  post = "/:slug"
+
+[params]
+  favicon = "/images/favicon.ico"
+  subtitle = "Software Engineer"
+  github = "nikodegtyaryov"
+  instagram = "nikogda"
+  twitter = "nikopium"
+  paginate = 10
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2020"
