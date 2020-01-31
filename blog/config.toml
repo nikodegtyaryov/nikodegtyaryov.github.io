@@ -1,11 +1,11 @@
-baseUrl = "https://nikodegtyaryov.github.io/blog/"
+baseUrl = "https://nikodegtyaryov.github.io/"
 languageCode = "en"
 title = "Niko Degtyaryov"
 theme = "pickles"
 copyright = "&copy; Niko Degtyaryov 2020"
 
 [permalinks]
-  post = "/:slug"
+  posts = "/:slug"
 
 [params]
   favicon = "/images/favicon.ico"
