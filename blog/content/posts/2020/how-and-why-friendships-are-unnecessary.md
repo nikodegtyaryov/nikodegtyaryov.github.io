@@ -4,8 +4,6 @@ date: 2020-07-12T20:41:58+03:00
 draft: false
 ---
 
-# How and Why Friends Are Unnecessary
-
 You might be thinking that this is a really strange topic to write about, especially for my first blog post.
 Yet, it is very relevant during the current pandemic situation, where lots of people lack social
 interaction. Everyone likes having friends, making friends, interacting with friends, etc - including
