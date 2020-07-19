@@ -21,7 +21,7 @@ _Note: Download ZIP if `Git` cannot be installed._
 Use `Git` to clone the repository and change directory accordingly:
 
 ```shell script
-$ git clone https://github.com/nikodegtyaryov/site.git
+$ git clone https://github.com/nikodegtyaryov/nikodegtyaryov.github.io.git site
 $ cd site
 ```
 
